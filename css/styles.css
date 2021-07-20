@@ -1,0 +1,205 @@
+a{
+  color: #11999E;
+  padding-left: 25px;
+  padding-right:25px;
+}
+
+button{
+  background-color: #548CA8;
+  color: white;
+  margin: 50px;
+  width: 200px;
+  height: 40px;
+  font-family: serif;
+  font-size: 20px;
+
+}
+
+
+body{
+  margin:0;
+}
+
+.copyright{
+  color: #EAF6F6;
+}
+
+.cl1{
+  margin-top: 100px;
+  position: absolute;
+  right: 250px;
+
+}
+
+.cl2{
+  position: absolute;
+  left:300px;
+  top: 390px;
+  line-height: 2;
+}
+
+footer{
+  margin: 0;
+}
+h1{
+  margin: 0;
+  position: relative;
+  top: 150px;
+  right:auto;
+  left: auto;
+  color: #66BFBF;
+  font-size: 90px;
+  padding: 0;
+  font-family: cursive;
+
+
+
+}
+
+
+
+h2{
+  margin: 0;
+  padding:0;
+  position: relative;
+  top: 200px;
+  color: #66BFBF;
+  height: 2;
+  font-size: 40px;
+
+}
+
+h3{
+  text-align: left;
+  line-height: 2;
+
+
+
+}
+
+h4{
+  font-size: 40px;
+  margin-top: 0;
+  color: #66BFBF;
+  margin-bottom: 0;
+}
+
+hr{
+  border-style: dotted;
+  border-right: hidden;
+  border-left: hidden;
+  border-bottom: hidden;
+  border-width: thick;
+  width: 5%;
+  color: #66BFBF;
+  margin-top: 30px;
+  margin-bottom: 50px;
+
+}
+
+.imge{
+  height: 150px;
+  width: 150px;
+  float: left;
+  padding-right: 25px;
+
+}
+
+.imgee{
+  height: 150px;
+  width: 150px;
+  float: right;
+
+}
+
+span{
+  text-decoration: underline;
+}
+
+
+.first-container{
+  background-color: #EAF6F6;
+  margin: 0;
+  margin-top: 0;
+  padding: 0;
+  position: relative;
+  align-items: center;
+  text-align: center;
+
+}
+
+.middle-container{
+  text-align: center;
+
+
+}
+
+.bottom-container{
+  color: green;
+  background-color: #66BFBF;
+  margin:0;
+  text-align: center;
+  padding: 20px;
+}
+
+.contact{
+  text-align: center;
+}
+.m21{
+  width: 70%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.m22{
+  width: 70%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mtn{
+  padding: 0;
+  height: 350px;
+  margin-top: 200px;
+
+
+
+}
+
+.mjs{
+  margin-top: 100px;
+  color:#11999E;
+}
+
+p{
+  color: #11999E;
+}
+
+.profile{
+  margin: 50px;
+
+}
+
+.p3{
+  display: inline-block;
+  width: 40%;
+  text-indent: 0;
+
+}
+
+.p4{
+  color: #11999E;
+  text-align: center;
+}
+
+.skill{
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+.last-line{
+  text-align: center;
+
+}
